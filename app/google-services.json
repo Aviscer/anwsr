@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "983908061059",
+    "firebase_url": "https://answr-a3bf3.firebaseio.com",
+    "project_id": "answr-a3bf3",
+    "storage_bucket": "answr-a3bf3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983908061059:android:548947e60a0bf73d",
+        "android_client_info": {
+          "package_name": "com.answr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983908061059-94vsv8ams0qka5f5cju4me8ef7pekpfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9K4NpiATsp7jFwyQk7MjWcj3KPtzaCQA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
